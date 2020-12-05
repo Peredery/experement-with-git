@@ -8,3 +8,6 @@ function Hello() {
   console.log('Hello2')
 }
 
+function  newFunction () {
+  console.log('change 1')
+}
